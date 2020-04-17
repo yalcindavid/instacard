@@ -1,0 +1,403 @@
+,user_id,department_id
+0,1,"[0      7
+10    16
+11    19
+21    19
+23    17
+Name: department_id, dtype: int64, 1      7
+12    19
+22    19
+25    19
+34     4
+37    14
+Name: department_id, dtype: int64, 2      7
+13    19
+26    19
+40    16
+48    13
+Name: department_id, dtype: int64, 3      7
+14    19
+24    17
+27    19
+41    16
+Name: department_id, dtype: int64, 4      7
+15    19
+28    19
+35     4
+42    16
+49     4
+50     4
+51     4
+Name: department_id, dtype: int64, 5      7
+16    19
+29    19
+43    16
+Name: department_id, dtype: int64, 6      7
+17    19
+30    19
+38    14
+44    16
+Name: department_id, dtype: int64, 7      7
+18    19
+31    19
+45    16
+54     7
+57    16
+Name: department_id, dtype: int64, 8      7
+19    19
+32    19
+46    16
+55     7
+58    16
+Name: department_id, dtype: int64, 9      7
+20    19
+33    19
+39    14
+47    16
+56     7
+59    19
+60    16
+61    16
+Name: department_id, dtype: int64]"
+1,2,"[36      4
+62     19
+71      4
+84     20
+86     13
+91     19
+93     19
+96     19
+101     7
+102    20
+105    20
+106     4
+108     4
+Name: department_id, dtype: int64, 52      4
+65     19
+87     13
+103    20
+107     4
+109     4
+118    19
+128    20
+135    20
+141     4
+148     4
+156    20
+160     1
+188    19
+191    16
+192    16
+197    16
+200    16
+206    16
+207    16
+208    16
+Name: department_id, dtype: int64, 53      4
+66     19
+88     13
+97     19
+110     4
+119    19
+129    20
+132     7
+142     4
+149     4
+189    19
+209    16
+211    16
+213    16
+Name: department_id, dtype: int64, 63     19
+73      4
+85     20
+122    16
+125    20
+Name: department_id, dtype: int64, 64     19
+126    20
+127    20
+131     7
+134    20
+137     4
+139    19
+140     4
+147     4
+155    20
+157     1
+159     1
+161     1
+Name: department_id, dtype: int64, 67     19
+92     19
+133     7
+143     4
+150     4
+190    19
+210    16
+212    16
+214    16
+215    19
+216    20
+218    12
+219     7
+220     1
+224     4
+225    13
+Name: department_id, dtype: int64, 68     19
+89     13
+94     19
+123    16
+144     4
+158     1
+167    19
+173    16
+177    16
+183    16
+193    16
+198    16
+201    16
+221     1
+226    19
+227    19
+228    19
+229    16
+231     4
+232     1
+233     1
+234     1
+235     1
+236     1
+237     1
+238     1
+Name: department_id, dtype: int64, 69     19
+95     19
+98     19
+120    19
+130    20
+152     4
+174    16
+179    16
+185    16
+194    16
+203    16
+223     1
+241     6
+242    19
+243    20
+Name: department_id, dtype: int64, 70     19
+99     19
+136    20
+153     4
+175    16
+180    16
+186    16
+195    16
+204    16
+217    20
+230    16
+244     7
+245    19
+246     7
+248     4
+249    19
+250    13
+251    13
+252     3
+Name: department_id, dtype: int64, 72      4
+111     4
+115    16
+116    19
+117    19
+121    20
+Name: department_id, dtype: int64, 74      4
+162    16
+163    19
+164    19
+165    19
+166    19
+168    14
+169    14
+170    14
+171    11
+172    16
+176    16
+182    16
+Name: department_id, dtype: int64, 90     13
+145     4
+151     4
+178    16
+184    16
+199    16
+202    16
+222     1
+239     6
+Name: department_id, dtype: int64, 100    19
+124    16
+146     4
+154     4
+181    16
+187    16
+196    16
+205    16
+240     6
+247     7
+263     4
+264     7
+265     4
+266    16
+267    13
+268     1
+Name: department_id, dtype: int64, 253    20
+254    19
+255    15
+256    13
+257    13
+258    19
+259     4
+260     4
+262     3
+Name: department_id, dtype: int64]"
+2,3,"[75      4
+112     4
+269     4
+274    16
+279     4
+280    16
+290     4
+298     4
+299    19
+302    19
+Name: department_id, dtype: int64, 76      4
+281    16
+292     4
+312     4
+313    20
+315    19
+Name: department_id, dtype: int64, 77      4
+271     4
+276    16
+282    16
+293     4
+314    20
+321     1
+324    16
+327     4
+328    16
+329     4
+Name: department_id, dtype: int64, 78      4
+272     4
+283    16
+300    19
+317    13
+325    16
+330     4
+331     4
+Name: department_id, dtype: int64, 79      4
+285    16
+295     4
+326    16
+334     4
+338     9
+341    13
+342     1
+Name: department_id, dtype: int64, 80      4
+114     4
+286    16
+335     4
+343     1
+Name: department_id, dtype: int64, 81      4
+277    16
+287    16
+304    19
+339     9
+344     7
+Name: department_id, dtype: int64, 82      4
+278    16
+288    16
+296     4
+336     4
+Name: department_id, dtype: int64, 83      4
+289    16
+297     4
+301    19
+311     7
+340     9
+Name: department_id, dtype: int64, 113     4
+273     4
+284    16
+294     4
+318    13
+323     1
+332     4
+333     4
+337     9
+Name: department_id, dtype: int64, 270     4
+316    13
+319    19
+320     1
+322     1
+Name: department_id, dtype: int64, 275    16
+291     4
+303    19
+305    16
+306    19
+307    16
+308    17
+309     4
+310     7
+Name: department_id, dtype: int64]"
+3,5,"[104    20
+363     6
+367     4
+371     4
+376     4
+379    16
+383    16
+389     4
+393     4
+394    16
+395    15
+396    16
+Name: department_id, dtype: int64, 361    13
+362     6
+364     4
+365     4
+366     4
+368     4
+372     4
+373     4
+377    16
+380     4
+381    16
+Name: department_id, dtype: int64, 369     4
+374     4
+378    16
+382    16
+384     9
+385     4
+386    13
+387    19
+388     4
+Name: department_id, dtype: int64, 370    4
+375    4
+390    1
+391    1
+392    4
+Name: department_id, dtype: int64]"
+4,4,"[138     4
+261     4
+348     1
+352    15
+353     7
+354     3
+355     1
+Name: department_id, dtype: int64, 345     3
+346     7
+347     1
+349    17
+Name: department_id, dtype: int64, 350     5
+351    17
+Name: department_id, dtype: int64, 356    5
+357    7
+Name: department_id, dtype: int64, 358    19
+359    20
+360    20
+Name: department_id, dtype: int64]"
